@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy<2.0.0
-scikit-learn<1.4.0
-gensim
-nltk
-scipy
+treamlit==1.49.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.13.1
+gensim==4.3.3
+nltk==3.9.1
+scipy==1.13.1
