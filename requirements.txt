@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+gensim
+nltk
+numpy
+re
+scipy.sprase
+
