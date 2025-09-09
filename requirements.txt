@@ -1,8 +1,8 @@
-streamlit>=1.27.0
-pandas>=2.2.2
-numpy>=2.0.0
-scikit-learn>=1.5.1
-gensim>=4.3.3
-nltk>=3.9.1
-scipy>=1.14.1
-setuptools>=75.1.0
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+gensim==4.3.3
+nltk==3.9.1
+scipy==1.13.1
+
